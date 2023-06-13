@@ -13,3 +13,10 @@ git push -u origin main
 
 ## DELETE REPOSITORIO LOCAL
 rm -r .git
+
+
+git init
+git add .
+git commit -m "first commit"
+git push -u origin main
+
